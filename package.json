@@ -23,7 +23,15 @@
     "ideogram",
     "smilies"
   ],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {}
+  "author": "Anant Rungta",
+  "license": "MIT",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anant016/npm-get-all-emoji.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Anant016/npm-get-all-emoji/issues"
+  },
+  "homepage": "https://github.com/Anant016/npm-get-all-emoji#readme"
 }
