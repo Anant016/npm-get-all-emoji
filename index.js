@@ -79,8 +79,9 @@ function getEmoji(emojiname) {
       });
       break;
   }
+
   return emoji;
 }
-console.log(getEmoji("tm"));
+console.log(getEmoji("happy"));
 
 module.exports = getEmoji;

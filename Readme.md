@@ -37,3 +37,13 @@ You'll find the _name of emoji_ from the links present below, which are encoded,
 If you want to support, please consider donating. It'll help me in development and making more cool packages for you:
 
 [![Donate](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0yoXJ8pXkxpWSv7ACYFTVbs7NOD7rW4hnflNjiSO0hvo47mXB)](https://paypal.me/ARungta)
+
+## Work with react
+
+### Code
+
+![code](Inreact.PNG)
+
+### Output
+
+![output](example.PNG)
