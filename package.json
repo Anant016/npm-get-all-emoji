@@ -1,6 +1,6 @@
 {
   "name": "get-all-emoji",
-  "version": "2.0.11",
+  "version": "2.0.12",
   "description": "Gives html code for emojis, for you to use directly.",
   "main": "index.js",
   "scripts": {
