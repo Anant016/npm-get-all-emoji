@@ -1783,7 +1783,7 @@
 		{"emoji": "↔", "name": "left_right_arrow", "shortname": ":left_right_arrow:", "unicode": "2194", "html": "&harr;", "category": "s", "order": "2011"},
 		{"emoji": "©", "name": "copyright", "shortname": ":copyright:", "unicode": "00a9", "html": "&copy;", "category": "s", "order": "2103"},
 		{"emoji": "®", "name": "registered", "shortname": ":registered:", "unicode": "00ae", "html": "&reg;", "category": "s", "order": "2104"},
-		{"emoji": "™", "name": "tm", "shortname": ":tm:", "unicode": "2122", "html": "&trade;", "category": "s", "order": "2105"},
+		{"emoji": "™", "name": "tm", "shortname": ":tm:", "unicode": "2122", "html": `&trade;`, "category": "s", "order": "2105"},
 		{"emoji": "0️⃣", "name": "0", "shortname": ":0:", "unicode": "", "html": "&#48;", "category": "", "order": ""},
 		{"emoji": "1️⃣", "name": "1", "shortname": ":1:", "unicode": "", "html": "&#49;", "category": "", "order": ""},
 		{"emoji": "2️⃣", "name": "2", "shortname": ":2:", "unicode": "", "html": "&#50;", "category": "", "order": ""},
@@ -1805,7 +1805,8 @@
 		{"emoji": "6⃣", "name": "six", "shortname": ":six:", "unicode": "0036-20e3", "html": "6&#8419;", "category": "s", "order": "2114"},
 		{"emoji": "7⃣", "name": "seven", "shortname": ":seven:", "unicode": "0037-20e3", "html": "7&#8419;", "category": "s", "order": "2115"},
 		{"emoji": "8⃣", "name": "eight", "shortname": ":eight:", "unicode": "0038-20e3", "html": "8&#8419;", "category": "s", "order": "2116"},
-		{"emoji": "9⃣", "name": "nine", "shortname": ":nine:", "unicode": "0039-20e3", "html": "9&#8419;", "category": "s", "order": "2117"}
+		{"emoji": "9⃣", "name": "nine", "shortname": ":nine:", "unicode": "0039-20e3", "html": "9&#8419;", "category": "s", "order": "2117"},
+
 	]
 }
 module.exports=list

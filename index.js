@@ -1,5 +1,3 @@
-//const request = require("request");
-//const cheerio = require("cheerio");
 const list = require("./list");
 
 function getEmoji(emojiname) {
@@ -83,6 +81,6 @@ function getEmoji(emojiname) {
   }
   return emoji;
 }
-console.log(getEmoji("family_one_girl"));
+console.log(getEmoji("tm"));
 
 module.exports = getEmoji;

@@ -30,7 +30,7 @@ You'll find the _name of emoji_ from the links present below, which are encoded,
 ## keywords encoded
 
 1. [w3-emojis](https://www.w3schools.com/charsets/ref_emoji_smileys.asp)
-2. [special-emojis](https://github.com/Anant016/get-all-emoji/blob/master/list.js)
+2. [special-emojis](https://github.com/Anant016/npm-get-all-emoji/blob/master/list.js)
 
 ## Support
 
