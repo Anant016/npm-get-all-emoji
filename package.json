@@ -1,0 +1,29 @@
+{
+  "name": "get-all-emoji",
+  "version": "2.0.7",
+  "description": "easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "emoji",
+    "get-all-emoji",
+    "get-emoji",
+    "text to emoji",
+    "text",
+    "special",
+    "simple",
+    "emoticon",
+    "emoticons",
+    "emojis",
+    "smiley",
+    "smileys",
+    "ideograms",
+    "ideogram",
+    "smilies"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
