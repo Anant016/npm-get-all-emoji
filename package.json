@@ -1,6 +1,6 @@
 {
   "name": "get-all-emoji",
-  "version": "2.0.9",
+  "version": "2.0.10",
   "description": "easy",
   "main": "index.js",
   "scripts": {
