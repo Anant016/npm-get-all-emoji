@@ -68,11 +68,31 @@ function getEmoji(emojiname) {
       emoji += "128522";
       break;
 
+    case "FACEBOOK":
+      emoji = "";
+      emoji += <img src="icons/001-facebook.png" alt="facebook" />;
+      break;
+
+    case "INSTAGRAM":
+      emoji = "";
+      emoji += <img src="icons/004-instagram.png" alt="instagram" />;
+      break;
+
+    case "YOUTUBE":
+      emoji = "";
+      emoji += <img src="icons/005-youtube.png" alt="youtube" />;
+      break;
+
+    case "TWITTER":
+      emoji = "";
+      emoji += <img src="icons/002-twitter.png" alt="twitter" />;
+      break;
+
     case list.emojis[0].name.toUpperCase():
       emoji += list.emojis[0].html;
       break;
     default:
-      list.emojis.map(function(item) {
+      list.emojis.map(function (item) {
         if (emojiname == item.name.toUpperCase()) {
           emoji = item.html;
         }
