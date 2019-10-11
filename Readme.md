@@ -5,7 +5,7 @@
 This is a [Node.js](https://nodejs.org/en/) module available through the
 [npm registry](https://www.npmjs.com/).
 
-Before installing, [download and install Node.js](https://nodejs.org/en/download/).
+Before installing just [download and install Node.js](https://nodejs.org/en/download/).
 Node.js 0.10 or higher is required.
 
 Run `npm i -S get-all-emoji`
@@ -16,7 +16,7 @@ Run `npm i -S get-all-emoji`
 const getEmoji = require("get-all-emoji");
 console.log(getEmoji("happy"));
 
-or;
+or you can also use;
 
 var q = getEmoji("family_one_girl");
 ```
